@@ -24,6 +24,7 @@ This is an **UNOFFICIAL** PyTorch implementation for DWSR - [Deep Wavelet Predic
     - crop_size: How big the dataset will be cropped into. Must be multiple of 4.
     - n_conv: How many conv layers between Conv1 and ConvN.
     - lr: Initial learning rate. Default 1e-2 and decays by x0.75 every 20 epochs.
+    - ...
 
 - Initialize output directory
 
