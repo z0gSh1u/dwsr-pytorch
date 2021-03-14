@@ -67,7 +67,7 @@ As you can see, PSNR and [LPIPS](https://github.com/richzhang/PerceptualSimilari
 
 - Trigger testing
 
-  Modify `train.sh` if you want to change which GPU to run on. Then run:
+  Modify `test.sh` if you want to change which GPU to run on. Then run:
 
   ```shell
   $ cd script
