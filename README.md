@@ -2,7 +2,7 @@
 
 This is an **UNOFFICIAL** PyTorch implementation for DWSR - [Deep Wavelet Prediction for Image Super-resolution](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/papers/Guo_Deep_Wavelet_Prediction_CVPR_2017_paper.pdf) . **Only 4x upsampling is provided.**
 
-![image-20201209162704163.png](https://i.loli.net/2020/12/09/H2Dk6pSqYvuVLtF.png)
+![image-20201209162704163.png](https://z3.ax1x.com/2021/05/18/ghLoCQ.png)
 
 ## Requirements
 
